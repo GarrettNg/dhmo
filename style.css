@@ -1,0 +1,54 @@
+:root {
+  background-color: beige;
+  font-family: "Roboto", Arial;
+}
+body {
+  padding: 20px;
+  margin: auto;
+  width: 80%;
+  max-width: 600px;
+}
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  color: darkgreen;
+  outline: 0.1em dashed;
+}
+#title {
+  font-family: "Yeseva One", Helvetica;
+}
+.img-div {
+  padding: 20px 20px 10px 20px;
+  margin: auto;
+  width: 60vw;
+  max-width: 600px;
+  border-radius: 25px;
+  background-color: lightgray;
+}
+.image {
+  margin: auto;
+  width: 100%;
+  height: auto;
+}
+.image-caption {
+  width: 100%;
+  font-size: 0.8em;
+}
+ul {
+  width: 80%;
+  padding: 20px 20px 20px 30px;
+  margin: auto;
+  background-color: lightgray;
+  border-radius: 25px;
+}
+.quote {
+  font-family: "Forum", cursive;
+  font-size: 1.4em;
+  font-style: italic;
+}
+.quote-attribution {
+  font-size: 1.2em;
+  line-height: 0em;
+  text-align: right;
+}
